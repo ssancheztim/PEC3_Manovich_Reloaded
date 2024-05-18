@@ -2,9 +2,14 @@
 
 ## Autor
 Sergio Sánchez Timpani
-
 ## Introducción
-En este ensayo analizaremos dos ejemplos modernos de hibridación tecnológica que podrían formar parte de una versión actualizada del libro "El software toma el mando" de Lev Manovich. Los casos seleccionados son Shazam y Spotify, dos aplicaciones que representan la convergencia de tecnologías avanzadas y prácticas culturales.
+En el contexto de la digitalización y la convergencia tecnológica, el concepto de hibridación descrito por Lev Manovich en su obra "El software toma el mando" cobra especial relevancia. Manovich argumenta que el software ha transformado profundamente nuestras prácticas culturales, no solo facilitando nuevas formas de creación y distribución de contenidos, sino también reconfigurando la manera en que interactuamos con el mundo digital. Este ensayo tiene como objetivo explorar dos ejemplos contemporáneos de hibridación tecnológica y cultural que podrían integrarse en una versión actualizada del libro de Manovich: Shazam y Spotify.
+
+Shazam y Spotify son dos aplicaciones que han revolucionado la industria musical y la forma en que consumimos música. Shazam permite a los usuarios identificar canciones en tiempo real mediante el reconocimiento de audio, mientras que Spotify ofrece una vasta biblioteca de música en streaming, personalizada a través de algoritmos de recomendación. Ambos casos representan la intersección de tecnologías avanzadas, como el machine learning y el big data, con prácticas culturales cotidianas, evidenciando cómo el software puede mediar y transformar nuestras experiencias culturales.
+
+El análisis de estos casos se realizará utilizando los principios delineados por Manovich, centrándose en la hibridación de técnicas y medios, la interactividad, la automatización y la recolección de datos. A través de este enfoque, se demostrará cómo Shazam y Spotify no solo facilitan el acceso a contenidos musicales, sino que también reconfiguran las prácticas de descubrimiento, consumo y compartición de música en la era digital. Además, se examinará cómo estas plataformas integran y expanden el ecosistema de medios digitales, ofreciendo nuevas formas de interacción y participación para los usuarios.
+
+$~$
 
 ## Caso 1: Shazam
 ![Shazam Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Shazam_logo.svg/2560px-Shazam_logo.svg.png)
