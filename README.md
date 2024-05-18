@@ -14,6 +14,8 @@ $~$
 ## Caso 1: Shazam
 ![Shazam Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Shazam_logo.svg/2560px-Shazam_logo.svg.png)
 
+$~$
+
 ### Descripción del Caso
 Shazam es una aplicación que permite a los usuarios identificar música, películas, publicidad y programas de televisión a partir de un breve muestreo del audio que se está reproduciendo. Lanzada en 2002, Shazam utiliza tecnología de reconocimiento de audio para hacer coincidir el fragmento grabado con una base de datos de millones de archivos. Los usuarios simplemente activan la aplicación, exponen su dispositivo a la fuente de audio, y en cuestión de segundos, Shazam proporciona el nombre del tema, el artista y otros datos relevantes.
 
@@ -34,9 +36,13 @@ Shazam ejemplifica la hibridación de varias tecnologías y prácticas culturale
 
 En resumen, Shazam es un ejemplo claro de cómo la tecnología puede hibridar diferentes elementos culturales y técnicos para crear nuevas formas de interacción y consumo. Al integrar algoritmos de reconocimiento, bases de datos masivas, automatización y conectividad, Shazam transforma la manera en que las personas interactúan con la música y otros contenidos de audio, alineándose con las ideas de Manovich sobre la softwarización de la cultura.
 
+$~$
 
 ## Caso 2: Spotify
 ![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/1200px-Spotify_logo_with_text.svg.png)
+
+$~$
+
 ### Descripción del Caso
 Spotify es una plataforma de streaming de música que ofrece acceso a millones de canciones, podcasts y otros contenidos de audio. Fundada en 2006 en Suecia, Spotify ha revolucionado la manera en que las personas consumen música, pasando de la compra y descarga de archivos a la transmisión instantánea de contenido a través de internet. Spotify utiliza un modelo freemium, donde los usuarios pueden acceder a una versión básica gratuita con anuncios o suscribirse a una versión premium sin anuncios y con funcionalidades adicionales.
 
